@@ -86,6 +86,7 @@ public class page2 : AppCompatActivity() {
                         txtPlay.text = "Happy!!!"
                     }
                 }
+    // Check
             }
 
 
